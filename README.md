@@ -2,14 +2,24 @@
 
 ## Introduction
 - This document provides detailed assembly instructions for the fully 3D printed revolver. Follow the steps carefully to ensure a successful assembly.
-- All parts are 3D printable, no additional hardware or tools required, however there are some optional recomendations below
+- All parts are 3D printable, no additional hardware or tools required, however there are some optional recommendations below
 
 ## Tools Required
 - 3D printer and slicing software
-- Optional tools for preparing the printed parts: sandpaper, flush cutters, pliers
+- Optional tools for preparing the printed parts: sandpaper, flush cutters, pliers, super glue
 
 ## Materials Needed
 [TODO]- List of all 3D printed parts
+- <input disabled="" type="checkbox"> Frame/Handle (1x)
+- <input disabled="" type="checkbox"> Cylinder (1x)
+- <input disabled="" type="checkbox"> Barrel (1x)
+- <input disabled="" type="checkbox"> Trigger (1x)
+- <input disabled="" type="checkbox"> Trigger Guard (1x)
+- <input disabled="" type="checkbox"> Hammer (1x)
+- <input disabled="" type="checkbox"> Cylinder Release Latch (1x)
+- <input disabled="" type="checkbox"> Side Plates (2x)
+- <input disabled="" type="checkbox"> Pins/Fasteners (various)
+- <input disabled="" type="checkbox"> Decorative Elements (optional)
 
 ## Safety Precautions
 - Always wear safety goggles when assembling.
@@ -32,4 +42,6 @@
 
 ## Conclusion
 Congratulations on assembling your 3D printed revolver! Always follow safety guidelines during operation and maintenance. 
+
+Follow local laws regarding prop/replica weapons, consider adding an orange tip if required in your jurisdiction.
 
