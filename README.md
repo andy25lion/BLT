@@ -7,6 +7,7 @@
 ## Tools Required
 - 3D printer and slicing software
 - Optional tools for preparing the printed parts: sandpaper, flush cutters, pliers, super glue
+- Some parts can be glued together for a more permanent fit without affecting the functionality, these parts are indicated in the instructions below
 
 ## Materials Needed
 [TODO]- List of all 3D printed parts
@@ -27,6 +28,8 @@
 - Be cautious of sharp edges on printed parts.
 
 ## Assembly Instructions
+
+https://youtu.be/zeOJTIaVyow
 
 ### Step 1: Prepare the Parts
 - Gather all printed parts and additional components.
